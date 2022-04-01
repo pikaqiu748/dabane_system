@@ -1,0 +1,49 @@
+{
+  "name": "vue-manage-system",
+  "version": "4.2.0",
+  "private": true,
+  "scripts": {
+    "dev": "npm run serve",
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@jiaminghi/data-view": "^2.10.0",
+    "axios": "^0.18.1",
+    "babel-polyfill": "^6.26.0",
+    "calendar.vue": "0.0.1",
+    "echarts": "^5.1.2",
+    "echarts-wordcloud": "^2.0.0",
+    "element-ui": "^2.11.0",
+    "jest-worker": "^27.1.0",
+    "js-cookie": "^3.0.0",
+    "lib-flexible": "^0.3.2",
+    "mavon-editor": "^2.6.17",
+    "module": "^1.2.5",
+    "node-sass": "^5.0.0",
+    "sass-loader": "^10.1.1",
+    "vue": "^2.6.10",
+    "vue-amap": "^0.5.10",
+    "vue-count-to": "^1.0.13",
+    "vue-cropperjs": "^3.0.0",
+    "vue-echarts": "^6.0.0",
+    "vue-i18n": "^8.10.0",
+    "vue-quill-editor": "^3.0.6",
+    "vue-router": "^3.0.3",
+    "vue-schart": "^2.0.0",
+    "vue-seamless-scroll": "^1.1.23",
+    "vuedraggable": "^2.17.0",
+    "workers": "0.0.1",
+    "zrender": "^4.1.2"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^3.9.0",
+    "@vue/cli-service": "^3.9.0",
+    "less": "^4.1.1",
+    "less-loader": "^10.0.1",
+    "postcss-pxtorem": "^5.1.1",
+    "px2rem-loader": "^0.1.9",
+    "vue-particles": "^1.0.9",
+    "vue-template-compiler": "^2.6.10"
+  }
+}
